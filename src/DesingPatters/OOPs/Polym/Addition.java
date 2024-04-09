@@ -1,6 +1,6 @@
-package DesingPatters.OOPs;
+package DesingPatters.OOPs.Polym;
 
-public class Polymorphism {
+public class Addition {
 //    We basically have runtime and compile
 //    time polymorphism which are method
 //    overriding and method overloading respectively.
