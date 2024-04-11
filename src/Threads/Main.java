@@ -15,6 +15,8 @@ public class Main {
 //            thread.start();
             executorServ executorServ = new executorServ(i);
             executorService.submit(executorServ);
+//            There are 2 ways we can implement printing of numbers from different
+//            threads. 1 is using thread.start and 2 is via executor service
         }
     }
 }
