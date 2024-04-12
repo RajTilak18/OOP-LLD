@@ -18,5 +18,6 @@ public class Main {
 //            There are 2 ways we can implement printing of numbers from different
 //            threads. 1 is using thread.start and 2 is via executor service
         }
+        executorService.shutdown();
     }
 }
