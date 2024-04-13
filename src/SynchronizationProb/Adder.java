@@ -1,4 +1,4 @@
-package Synchronization;
+package SynchronizationProb;
 
 public class Adder implements Runnable{
     Count count;

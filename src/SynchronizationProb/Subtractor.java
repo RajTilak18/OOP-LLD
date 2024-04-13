@@ -1,4 +1,4 @@
-package Synchronization;
+package SynchronizationProb;
 
 public class Subtractor implements Runnable{
     Count count;
